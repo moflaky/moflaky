@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moflaky, more commonly known as Matthew
 - 👀 I’m a full stack software developer for Upstream Impact
-- 🌱 We develop groundbreaking applications that can help fight hunger in America
+- 🌱 We develop groundbreaking applications that help fight hunger in America
 - 📫 How to reach me salamackm@gmail.com
 
 <!---
