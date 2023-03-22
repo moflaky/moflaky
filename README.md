@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @moflaky, more commonly known as Matthew
-- 👀 I’m interested in software development and design, full stack design
-- 🌱 I’m currently learning machine learning with Python, software development in Java
-- 💞️ I’m looking to collaborate on smaller entry level algorithms and projects
+- 👀 I’m a full stack software developer for Upstream Impact
+- 🌱 We develop groundbreaking applications that can help fight hunger in America
 - 📫 How to reach me salamackm@gmail.com
 
 <!---
