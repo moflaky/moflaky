@@ -19,7 +19,7 @@
 </div>
 
 <!-- ======================= ABOUT ======================= -->
-## 🍽️ About Me
+## About Me
 
 - 👀 &nbsp;Software Developer at **Upstream Impact**
 - 🌱 &nbsp;We build groundbreaking applications that help **fight hunger in America**
@@ -30,7 +30,7 @@
 <br/>
 
 <!-- ======================= TECH STACK ======================= -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -54,11 +54,11 @@
 <br/>
 
 <!-- ======================= GITHUB STATS ======================= -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="250" src="https://stats-card.pages.dev/user?user=moflaky&layout=compact&theme=merko" alt="Matthew's GitHub stats" />
+<img height="270" src="https://stats-card.pages.dev/user?user=moflaky&layout=compact&theme=merko" alt="Matthew's GitHub stats" />
 <br/>
 <img height="250" src="https://stats-card.pages.dev/lang?user=moflaky&layout=compact&theme=merko" alt="Top languages" />
 
@@ -71,7 +71,7 @@
 <br/>
 
 <!-- ======================= TROPHIES ======================= -->
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
 
@@ -82,7 +82,7 @@
 <br/>
 
 <!-- ======================= ACTIVITY GRAPH ======================= -->
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -93,7 +93,7 @@
 <br/>
 
 <!-- ======================= SNAKE ANIMATION ======================= -->
-## 🐍 Watch My Contributions Get Eaten
+## Contribution Snake
 
 <div align="center">
 
