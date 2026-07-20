@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/moflaky">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Matthew+%F0%9F%91%8B;Software+Developer+%40+Upstream+Impact;Building+tech+that+fights+hunger+in+America+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Matthew+%F0%9F%91%8B;Software+Developer+%40+Upstream+Impact;Building+tech+that+fights+hunger+in+America" alt="Typing SVG" />
 </a>
 
 <br/>
